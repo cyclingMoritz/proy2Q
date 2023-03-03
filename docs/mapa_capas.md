@@ -1,6 +1,6 @@
 # Controles y capas mapa
 
-Agregar el document ready
+Agregar el document ready a mapa.js
 
 ``` js
 $(document).ready(function() {
@@ -10,7 +10,7 @@ $(document).ready(function() {
 });
 ```
 
-Agregar el control de capas
+Agregar el control de capas en el index.html
 
 ``` html
  <link rel="stylesheet" href="css/styledLayerControl.css"/>
